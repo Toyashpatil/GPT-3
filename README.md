@@ -1,1 +1,1 @@
-
+Welcome to my React website's landing page about GPT-3. This website is a modern and interactive platform built using the popular React framework. With its sleek design and user-friendly interface, our website offers a seamless browsing experience for visitors.
